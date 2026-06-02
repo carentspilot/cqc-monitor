@@ -1,0 +1,92 @@
+{
+  "cornwall-0526": {
+    "name": "Cornwall Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/cornwall-0526",
+    "rating": "Good",
+    "first_seen": "2026-06-02T11:29:29.487336"
+  },
+  "herefordshire-0526": {
+    "name": "Herefordshire Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/herefordshire-0526",
+    "rating": "Requires improvement",
+    "first_seen": "2026-06-02T11:29:30.811505"
+  },
+  "newcastle-0526": {
+    "name": "Newcastle City Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/newcastle-0526",
+    "rating": "Requires improvement",
+    "first_seen": "2026-06-02T11:29:31.782233"
+  },
+  "coventry-0526": {
+    "name": "Coventry City Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/coventry-0526",
+    "rating": "Good",
+    "first_seen": "2026-06-02T11:29:31.815186"
+  },
+  "stockport-0526": {
+    "name": "Stockport Metropolitan Borough Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/stockport-0526",
+    "rating": "Good",
+    "first_seen": "2026-06-02T11:29:31.852341"
+  },
+  "greenwich-0526": {
+    "name": "Royal Borough of Greenwich",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/greenwich-0526",
+    "rating": "Unknown",
+    "first_seen": "2026-06-02T11:29:32.546469"
+  },
+  "luton-0526": {
+    "name": "Luton Borough Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/luton-0526",
+    "rating": "Good",
+    "first_seen": "2026-06-02T11:29:32.942956"
+  },
+  "worcestershire-0526": {
+    "name": "Worcestershire County Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/worcestershire-0526",
+    "rating": "Good",
+    "first_seen": "2026-06-02T11:29:33.516614"
+  },
+  "lambeth-0526": {
+    "name": "Lambeth Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/lambeth-0526",
+    "rating": "Good",
+    "first_seen": "2026-06-02T11:29:33.912618"
+  },
+  "salford-0526": {
+    "name": "Salford City Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/salford-0526",
+    "rating": "Inadequate",
+    "first_seen": "2026-06-02T11:29:34.294037"
+  },
+  "birmingham-cc": {
+    "name": "Birmingham City Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/birmingham-cc",
+    "rating": "Unknown",
+    "first_seen": "2026-06-02T11:29:35.433748"
+  },
+  "lincolnshire-cc": {
+    "name": "Lincolnshire County Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/lincolnshire-cc",
+    "rating": "Unknown",
+    "first_seen": "2026-06-02T11:29:36.502733"
+  },
+  "north-lincolnshire": {
+    "name": "North Lincolnshire Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/north-lincolnshire",
+    "rating": "Unknown",
+    "first_seen": "2026-06-02T11:29:37.559652"
+  },
+  "nottingham-city": {
+    "name": "Nottingham City Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/nottingham-city",
+    "rating": "Unknown",
+    "first_seen": "2026-06-02T11:29:38.595726"
+  },
+  "suffolk-cc": {
+    "name": "Suffolk County Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/suffolk-cc",
+    "rating": "Unknown",
+    "first_seen": "2026-06-02T11:29:39.655921"
+  }
+}
