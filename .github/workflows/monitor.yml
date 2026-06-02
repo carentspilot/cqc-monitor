@@ -1,0 +1,39 @@
+name: CQC Monitor
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # Every day at 8am UTC
+  workflow_dispatch:        # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run monitor
+        env:
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+        run: python monitor.py
+
+      - name: Save updated seen list
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "CQC Monitor"
+          git add seen_assessments.json
+          git diff --staged --quiet || git commit -m "Update seen assessments"
+          git push
