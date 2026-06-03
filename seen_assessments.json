@@ -88,5 +88,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/suffolk-cc",
     "rating": "Unknown",
     "first_seen": "2026-06-02T11:29:39.655921"
+  },
+  "isleofwight-0626": {
+    "name": "Isle of Wight Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/isleofwight-0626",
+    "rating": "Requires improvement",
+    "first_seen": "2026-06-03T20:28:59.315523"
   }
 }
