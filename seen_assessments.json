@@ -94,5 +94,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/isleofwight-0626",
     "rating": "Requires improvement",
     "first_seen": "2026-06-03T20:28:59.315523"
+  },
+  "dorset-0626": {
+    "name": "Dorset Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/dorset-0626",
+    "rating": "Good",
+    "first_seen": "2026-06-04T17:58:16.039773"
   }
 }
