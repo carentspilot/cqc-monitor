@@ -100,5 +100,17 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/dorset-0626",
     "rating": "Good",
     "first_seen": "2026-06-04T17:58:16.039773"
+  },
+  "somerset-0626": {
+    "name": "Somerset Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/somerset-0626",
+    "rating": "Requires improvement",
+    "first_seen": "2026-06-05T17:02:44.389765"
+  },
+  "tameside-0626": {
+    "name": "Tameside Metropolitan Borough Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/tameside-0626",
+    "rating": "Requires improvement",
+    "first_seen": "2026-06-05T17:02:46.635299"
   }
 }
