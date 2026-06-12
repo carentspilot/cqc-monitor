@@ -112,5 +112,17 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/tameside-0626",
     "rating": "Requires improvement",
     "first_seen": "2026-06-05T17:02:46.635299"
+  },
+  "rochdale-0626": {
+    "name": "Rochdale Borough Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/rochdale-0626",
+    "rating": "Good",
+    "first_seen": "2026-06-12T17:42:04.714672"
+  },
+  "nottingham-0626": {
+    "name": "Nottingham City Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/nottingham-0626",
+    "rating": "Requires improvement",
+    "first_seen": "2026-06-12T17:42:04.766589"
   }
 }
