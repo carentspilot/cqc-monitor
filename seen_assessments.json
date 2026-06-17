@@ -124,5 +124,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/nottingham-0626",
     "rating": "Requires improvement",
     "first_seen": "2026-06-12T17:42:04.766589"
+  },
+  "southampton-0626": {
+    "name": "Southampton City Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/southampton-0626",
+    "rating": "Requires improvement",
+    "first_seen": "2026-06-17T18:01:07.476410"
   }
 }
