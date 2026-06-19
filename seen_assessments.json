@@ -142,5 +142,17 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/bournemouthchristchurchpoole-0626",
     "rating": "Requires improvement",
     "first_seen": "2026-06-18T18:16:53.464741"
+  },
+  "havering-0626": {
+    "name": "Havering London Borough Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/havering-0626",
+    "rating": "Requires improvement",
+    "first_seen": "2026-06-19T17:03:22.294423"
+  },
+  "bury-0626": {
+    "name": "Bury Metropolitan Borough Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/bury-0626",
+    "rating": "Good",
+    "first_seen": "2026-06-19T17:03:23.828200"
   }
 }
