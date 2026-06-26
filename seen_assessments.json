@@ -154,5 +154,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/bury-0626",
     "rating": "Good",
     "first_seen": "2026-06-19T17:03:23.828200"
+  },
+  "wolverhampton-0626": {
+    "name": "City of Wolverhampton Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/wolverhampton-0626",
+    "rating": "Good",
+    "first_seen": "2026-06-26T16:29:10.774167"
   }
 }
