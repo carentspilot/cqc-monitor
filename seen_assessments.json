@@ -160,5 +160,17 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/wolverhampton-0626",
     "rating": "Good",
     "first_seen": "2026-06-26T16:29:10.774167"
+  },
+  "barnsley-0726": {
+    "name": "Barnsley Metropolitan Borough Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/barnsley-0726",
+    "rating": "Requires improvement",
+    "first_seen": "2026-07-01T16:43:39.286933"
+  },
+  "suffolk-0726": {
+    "name": "Suffolk County Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/suffolk-0726",
+    "rating": "Good",
+    "first_seen": "2026-07-01T16:43:41.025418"
   }
 }
