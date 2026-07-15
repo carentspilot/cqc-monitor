@@ -178,5 +178,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/portsmouth-0726",
     "rating": "Good",
     "first_seen": "2026-07-08T10:22:16.421905"
+  },
+  "city-london-corporation-0726": {
+    "name": "City of London Corporation",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/city-london-corporation-0726",
+    "rating": "Good",
+    "first_seen": "2026-07-15T10:06:01.500369"
   }
 }
