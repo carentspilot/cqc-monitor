@@ -184,5 +184,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/city-london-corporation-0726",
     "rating": "Good",
     "first_seen": "2026-07-15T10:06:01.500369"
+  },
+  "devon-0726": {
+    "name": "Devon County Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/devon-0726",
+    "rating": "Requires improvement",
+    "first_seen": "2026-07-17T10:02:05.368584"
   }
 }
