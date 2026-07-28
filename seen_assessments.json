@@ -190,5 +190,35 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/devon-0726",
     "rating": "Requires improvement",
     "first_seen": "2026-07-17T10:02:05.368584"
+  },
+  "lincolnshire-pilot": {
+    "name": "Lincolnshire County Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/lincolnshire-pilot",
+    "rating": "Unknown",
+    "first_seen": "2026-07-28T10:39:09.428729"
+  },
+  "birmingham-pilot": {
+    "name": "Birmingham City Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/birmingham-pilot",
+    "rating": "Unknown",
+    "first_seen": "2026-07-28T10:39:10.991390"
+  },
+  "nottingham-pilot": {
+    "name": "Nottingham City Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/nottingham-pilot",
+    "rating": "Unknown",
+    "first_seen": "2026-07-28T10:39:12.508656"
+  },
+  "northlincolnshire-pilot": {
+    "name": "North Lincolnshire Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/northlincolnshire-pilot",
+    "rating": "Unknown",
+    "first_seen": "2026-07-28T10:39:14.112824"
+  },
+  "suffolk-pilot": {
+    "name": "Suffolk County Council assessment",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/suffolk-pilot",
+    "rating": "Unknown",
+    "first_seen": "2026-07-28T10:39:15.489275"
   }
 }
