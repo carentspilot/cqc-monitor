@@ -220,5 +220,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/suffolk-pilot",
     "rating": "Unknown",
     "first_seen": "2026-07-28T10:39:15.489275"
+  },
+  "manchester-0826": {
+    "name": "Manchester City Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/manchester-0826",
+    "rating": "Good",
+    "first_seen": "2026-08-05T10:39:39.438858"
   }
 }
