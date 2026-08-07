@@ -226,5 +226,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/manchester-0826",
     "rating": "Good",
     "first_seen": "2026-08-05T10:39:39.438858"
+  },
+  "lewisham-0826": {
+    "name": "London Borough of Lewisham",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/lewisham-0826",
+    "rating": "Requires improvement",
+    "first_seen": "2026-08-07T09:03:15.838522"
   }
 }
