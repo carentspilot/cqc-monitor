@@ -232,5 +232,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/lewisham-0826",
     "rating": "Requires improvement",
     "first_seen": "2026-08-07T09:03:15.838522"
+  },
+  "trafford-0826": {
+    "name": "Trafford Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/trafford-0826",
+    "rating": "Requires improvement",
+    "first_seen": "2026-08-12T09:14:51.826315"
   }
 }
