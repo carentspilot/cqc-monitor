@@ -244,5 +244,11 @@
     "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/lincolnshire-0826",
     "rating": "Requires improvement",
     "first_seen": "2026-08-13T09:15:49.192964"
+  },
+  "northlincolnshire-0826": {
+    "name": "North Lincolnshire Council",
+    "url": "https://www.cqc.org.uk/care-services/local-authority-assessment-reports/northlincolnshire-0826",
+    "rating": "Good",
+    "first_seen": "2026-08-14T09:10:55.877631"
   }
 }
